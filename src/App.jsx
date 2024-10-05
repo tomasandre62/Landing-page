@@ -2,7 +2,7 @@ import React from 'react';
 import { NavBar } from './NavBar';
 import { Content } from './Content';
 import { Card } from './Card';
-import { Footer } from './footer';
+import { Footer } from './Footer';
 
 
 
